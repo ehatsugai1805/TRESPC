@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\bin\Debug\netcoreapp2.1\APS1BimPC_Martin.deps.json
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\bin\Debug\netcoreapp2.1\APS1BimPC_Martin.runtimeconfig.json
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\bin\Debug\netcoreapp2.1\APS1BimPC_Martin.runtimeconfig.dev.json
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\bin\Debug\netcoreapp2.1\APS1BimPC_Martin.dll
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\bin\Debug\netcoreapp2.1\APS1BimPC_Martin.pdb
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\obj\Debug\netcoreapp2.1\APS1BimPC_Martin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\obj\Debug\netcoreapp2.1\APS1BimPC_Martin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\obj\Debug\netcoreapp2.1\APS1BimPC_Martin.AssemblyInfo.cs
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\obj\Debug\netcoreapp2.1\APS1BimPC_Martin.dll
+C:\Users\user\Desktop\APS1BimPC_Martin\APS1BimPC_Martin\obj\Debug\netcoreapp2.1\APS1BimPC_Martin.pdb
